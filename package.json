@@ -1,0 +1,30 @@
+{
+  "name": "kaysemployeetracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawsarbyherself/kaysemployeetracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kawsarbyherself/kaysemployeetracker/issues"
+  },
+  "homepage": "https://github.com/kawsarbyherself/kaysemployeetracker#readme",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "connect-js": "^0.5.8",
+    "console.table": "^0.10.0",
+    "db": "^3.3.1",
+    "inquirer": "^8.1.5",
+    "modules": "^0.4.0",
+    "node": "^16.9.1",
+    "node-modules": "^1.0.1",
+    "util": "^0.12.4"
+  }
+}
